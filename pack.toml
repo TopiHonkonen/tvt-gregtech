@@ -1,0 +1,13 @@
+name = "TVT Koodauspacki"
+author = "DrNuget"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "210e34ebb28037f13bb580273ff2f62836d09a4beea3a3a7d469d9ade818d178"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

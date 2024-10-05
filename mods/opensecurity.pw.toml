@@ -1,0 +1,13 @@
+filename = 'OpenSecurity-1.12.2-1.0-93.jar'
+name = 'OpenSecurity'
+side = 'both'
+
+[download]
+hash = '8c708372f9fe90dd5f9b3ae6e5cdd9d404601b48'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4328814
+project-id = 231687

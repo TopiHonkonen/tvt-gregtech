@@ -1,0 +1,13 @@
+filename = 'AutomatedRedstone-1.12.2-6.1.6.jar'
+name = 'Automated Redstone'
+side = 'both'
+
+[download]
+hash = 'aae7c52d2e6e769e027955ec8224bd75b5d388c5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2669116
+project-id = 229507

@@ -1,0 +1,13 @@
+filename = 'OpenGlasses-MC1.12.2-1.5.5.jar'
+name = 'OpenGlasses'
+side = 'both'
+
+[download]
+hash = 'eeb5a9ff17b29cf2d9721cc139cf35c02c28c519'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2530318
+project-id = 225819

@@ -1,0 +1,13 @@
+filename = 'RedstoneControl-1.12.2-0.2.6.1.jar'
+name = 'Redstone Control'
+side = 'both'
+
+[download]
+hash = 'd4aa1db6b2279ecd8133dd4e2688e8bf0dcf8cc7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2885689
+project-id = 319994

@@ -1,0 +1,13 @@
+filename = 'DankNull-1.12.2-1.8.101.jar'
+name = '/dank/null/no_RCE/'
+side = 'both'
+
+[download]
+hash = 'a68a0ebb1e5ea4f87731954496dc9a6b29cc0c50'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4671633
+project-id = 896355

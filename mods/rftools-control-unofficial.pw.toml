@@ -1,0 +1,13 @@
+filename = 'rftoolsctrl-1.12-2.0.2-patch-2.jar'
+name = '[Unofficial Maintance]RFTools Control'
+side = 'both'
+
+[download]
+hash = '9efe80dbc436fffc980f10dbff3194a1c235aa68'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3074910
+project-id = 410257

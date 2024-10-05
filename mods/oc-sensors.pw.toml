@@ -1,0 +1,13 @@
+filename = 'ocsensors-1.0.4-b23.jar'
+name = 'OC Sensors'
+side = 'both'
+
+[download]
+hash = '1fdd0eaa621762e5d237cece7487b1f185d572d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2525195
+project-id = 269054

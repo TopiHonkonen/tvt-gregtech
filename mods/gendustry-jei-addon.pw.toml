@@ -1,0 +1,13 @@
+filename = 'gendustryjei-1.0.2.jar'
+name = 'Gendustry JEI Addon'
+side = 'both'
+
+[download]
+hash = 'fb3cddd50d037700bbd5dfb2a9db54736db8bbc6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2609434
+project-id = 301364

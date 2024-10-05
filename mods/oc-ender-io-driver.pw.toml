@@ -1,0 +1,13 @@
+filename = 'oceio-1.12.2-1.0.002.jar'
+name = 'OC Ender IO Driver'
+side = 'both'
+
+[download]
+hash = '6046445ce9554ac8c2fe4f6d69a159763f6ca13d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2703387
+project-id = 320132
