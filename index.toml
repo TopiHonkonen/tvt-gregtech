@@ -618,6 +618,11 @@ hash = "a8047c7ecb127b2d81892351345cd8e145173beb685fd1ed66f7695bbd1030e0"
 metafile = true
 
 [[files]]
+file = "mods/reid.pw.toml"
+hash = "4d7db3bc859cf98f1af2aed71078c8a9eb3d965f08ab16b992be4926ff632625"
+metafile = true
+
+[[files]]
 file = "mods/rftools-control-unofficial.pw.toml"
 hash = "79a3d444b5b14a29b616241e851eb7eeacaafd25cd1139a95f7375ea9fe9bb9d"
 metafile = true
@@ -668,6 +673,11 @@ hash = "84749dbd33cc4a8d774b7c1dce698f73aae5888f6f540beba356c3976440e39d"
 metafile = true
 
 [[files]]
+file = "mods/trinity.pw.toml"
+hash = "c414477e5033cd3efc77cb01fcdf19184df7d40d520ed9fbf8d96e2734751b60"
+metafile = true
+
+[[files]]
 file = "mods/universal-tweaks.pw.toml"
 hash = "dc049ae4008d573a0265c1c7305451da42c730fc8e408cc603186741c4bf6ac4"
 metafile = true
@@ -691,3 +701,1291 @@ metafile = true
 file = "mods/ynet-an-xnet-fork.pw.toml"
 hash = "9c51b8e172931c88f2d58b7e7af0f49b664e816d61a698d7a156dcd16b74de85"
 metafile = true
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarFuels-1.9.5.zip"
+hash = "e9b72c8e6aa59ac60251f500fac2320e7160f92178d584910b8f22417d39dfe6"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarHeatSinks-1.4.1.zip"
+hash = "aa4fd1afe4fc075d05e99c0d44af0d64c01d35b348b9c5f1715b512791d99e28"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorComponents-1.0.1.zip"
+hash = "c331c0f13964e9c93ec7d065a42e135e25f843f455e5904270a75eac8d5dd35b"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality-1.10.2.zip"
+hash = "e4536d2d64cd1a4512164505ae340bbd40eb8f0f00c3ed6a4afc5898022e810e"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarRealisticEnrichment-1.1.3.zip"
+hash = "5242d033ede596770ab3e33be9b02147a9bda47ab8d8abfb4e008f4d6e0e446b"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarRealisticRadiation-1.3.8.zip"
+hash = "53cc4df70fa2a42d864635d804dd5f99e9fd71d36610570ea2f8c6ff89a48f87"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_aero.json"
+hash = "cd5831daddcc75f30a5a5736595e8911416becb6edef7ffa7efe59fe2b047a67"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_bismuth.json"
+hash = "c44a64dbc708f8a8e321d57bb58d697e2ea10600f0ac5ed5af15d349926a8379"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_blue_ice.json"
+hash = "cd9e3df5af36e9264305979dfd742cb7dff9787b72716ce70f5ab7e57446ae77"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_bone.json"
+hash = "04dace4313d2dfcfe3c173eb6c3e29989d632299ad0d5d9fe58c54657f35ccaf"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_boron_arsenide.json"
+hash = "91657ef77afcf1ce22db71eb5f9e73b582470d191fe14c8a6227a49e68c26246"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_boron_nitride.json"
+hash = "a509afb6a7ba45cd162ee19d3880453e5315439852ec2fa0ee365b5b0db0f3ce"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_brick.json"
+hash = "83c47cb87f05a36d50c36152755f3bff958348562d2eb7f096c4684a0f9c417c"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_bronze.json"
+hash = "efe43b90488970f8abada204fc8296a9a6c9d58a7ed499f0fce1bd6ae741a6fd"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_certus.json"
+hash = "f20d93674ceb6cf0d501f8e8e09daae610976dbd7e9918dc718dce603c804eb4"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_constantan.json"
+hash = "d2bbe2d1300866cbc56cd2fa2fdd7e47ca00037e359c7fbb222b5097c22a530a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_corium.json"
+hash = "15ba8002e7ea838b48da439c911d141d02897df6a4510f2c74bce8abe7e44bca"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_electrum.json"
+hash = "f6cf2910c5d313300c8f509a6479ff72a5450f7a456497b49f4ed23a6a42b62a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_extreme_alloy.json"
+hash = "c44a10a5e98d9c4d823a3850429ebb5ae7b6b235c6f3423bd8fa7c05c651ce3f"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_ferroboron.json"
+hash = "92487c3a392ed69c0cfd6768b2adf7e5813ed34fec366aed27b4555fb16e3582"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_fluix.json"
+hash = "c5f254a132b8b188ebdfb653bcb5d2bb9479323165ae919ebab56c1c44db684e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_fluix_steel.json"
+hash = "71d0126252a19d1f7a1a689850e215ad7e1e3d6da69d5431561d1c0cd44e54a1"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_flux_crystal.json"
+hash = "28b27e8c5bca0b3334132676b0c5d5e1a232f5ae71e85ad41da548ab1ccea87f"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_fluxed_electrum.json"
+hash = "3e2156085d2e1a5a1383b8f19236a9939048e0bfc0022cc6d33da0ee8f4f3428"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_glowshroom.json"
+hash = "a2b82fc03f959dc3439c3413bfa584d1db5e62d55da9d99d11841801ef92a309"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_hard_carbon.json"
+hash = "fa77684f4b3dc330025eb0c06a160ab36a8423217227eccb17dbcfd249f16e63"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_hsla.json"
+hash = "3c48e21cc867ca8f254d467a525e17a122bfa88195b85dc3c84ecb2adfc70ac6"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_invar.json"
+hash = "625a3bbe46ade8ba27914a86b89a76f6aaa52f12a7417682459fa3110593eb0e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_iridium.json"
+hash = "2de509729059ff641039c89014c1bb4a6ae22f0826df2ceb247dfa04cd5c0d20"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_lava.json"
+hash = "f5399d14967243dbfd8666e3cc9cea81eadfe51df413bd8a7db4f1bb0ded10a7"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_limno2.json"
+hash = "59c1f5b7136db76957776af3eed3c3a267f330ef8decef442a2f448a22df3dd8"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_liquid_oxygen.json"
+hash = "e41a6c06d2c5fcd52692a988ea5aacd78a6b0965a0473949187138b89bf75501"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_lumium.json"
+hash = "0dacc81b897fbbc6405f5c29e18797e206efde66383a13c561b5cc05d44d01de"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_magma_slime.json"
+hash = "98042e034c5c7c449fd734697ed6261f472c6dfcee7b73d039d992b6b54161bd"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_mana_dust.json"
+hash = "1e10e8b1ef52a0250afa6ecdadb08d3af53a5d5a35189afd6aadaba319e67290"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_mgb2.json"
+hash = "4af528705fb3a97e9e827dfd4dd2ee120a0d9670f8c6cdb4cc8865c47567f6e9"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_milk.json"
+hash = "24d234c10c68d0ad7e959c843a2c22793ba9e5b1c51fc6217db0dec560f17241"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_mithril.json"
+hash = "0941720f61f237f6204574f2abb04866597747a8621f2abc91508a291e6cf85e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_nickel.json"
+hash = "a85e755767fef00ccecbe310152e4c8e36633b82c14c3f4d6f6da49d6e751e11"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_petro.json"
+hash = "4203f2ca404ea1b8ab1ab0672bd18185764e9d1851ee5de9e55fd7aa3d0f8ddc"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_platinum.json"
+hash = "ca9069ec61b261eba5c9fdbd871d3ba2db0abda4bf5907339a367d5ad14508ff"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_pyro.json"
+hash = "ae5d1968f4b812cbc50da251f4d3250416d6547d2a05606ddf6131386c3b176e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_rhodochrosite.json"
+hash = "2c67f8c6bf7b8bf208757e142690af50d57f10aaa6ae92ab07810a4cd291d25f"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_sea_lantern.json"
+hash = "12069c0766262799ed95350dc5562e84330bc4939a0d888bfed8ddebac9bdae3"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_sic.json"
+hash = "d322c1dd6b8e4b4f0cc0bed10634512323cb42214b08f4fc4c75ba2350a8d15a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_sic_sic_cmc.json"
+hash = "c1388a97760333bcaa52146c65269323ef04dc80823237b0b652abd999a2244f"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_signalum.json"
+hash = "248185079079736a5df9b9c1b53765111ed8b0b5c63bd712e1ff72a1fd1f52e7"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_silicon.json"
+hash = "e14855119a59a769e42fcb983b2dfe62b907b5282668a19a0babdf89447af621"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_smore.json"
+hash = "a3d64b3336d213818d7cf373a749bf3308e032eb69a18106755244635715690b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_sponge.json"
+hash = "53c0f5077d4c0d279a3db30ea97c64a7d5023772a1aec14d7b716182b64f3262"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_steel.json"
+hash = "3a672d104dca070e2038a2a07ec4819f17d458b21734757b7db26bc115aa66d6"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_thermoconducting_alloy.json"
+hash = "5a0b98897ff282c388a147c79cc76aab52c927e7adfb8e1fa410384ececadcce"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_tnt.json"
+hash = "7011ea006793be18591e74c1d318e683d672f76df98c58982bfc213118d87691"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_tough_alloy.json"
+hash = "93d9b724de6e9999ea613d285d1c622758bf43b651054c2edbc57fd97b540dad"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_zircaloy.json"
+hash = "65f3e4aa988b048bed32ae7b8b53744d8cb1256bdd56415fd7182398c36455d4"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_heater_port_zirconium.json"
+hash = "156b0d0c4067b18089711658e22e6b95471b0b9d727871f5a81533b746aac6c9"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_shield_gadolinium.json"
+hash = "8dd171df54f5185a9c14a878c9ce4dc4457462cf16c96a4aca0c7cfe68b74f6e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_source_actinium.json"
+hash = "f1cb73bf582f9f8c8afc5ac896e446bea6bdd0a498eb3090f291962b1c48597b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_source_californium254.json"
+hash = "d0231bcc3e8ecf9c699f5382f0fc3674b87550cbc69e97384bc14a74e88c06e7"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_source_curium244.json"
+hash = "b55410537428ed7a252020b31929c07b64bc74ccb998b17fb05ee13d69b7467a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_source_curium250.json"
+hash = "17fc9dab8df63f5b69c0604515f28bf0a9678da252d7e74280fbaa51246e344c"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/fission_source_fermium257.json"
+hash = "384242ac0938884300e5ec78f0962017a2283b2a297a0c664d6348d457310e37"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_aero.json"
+hash = "9aa863fd0480a958f8d49009687554de6e743c5aa5024309d205b32900f60db3"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_bismuth.json"
+hash = "6dbdf1e65e0b8f6362f34a3ae0ac5cd6d0179b5103749cb066d57b3d6bc7ac65"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_blue_ice.json"
+hash = "cce910b6294639151ba2c0180d1e285d0120233cc9133e27cc28ca0dc8b86904"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_bone.json"
+hash = "2c2eabdd1639d267d56a748d97715979cc22f08e26e004ffd2ee5073d3268f6b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_boron_arsenide.json"
+hash = "8f53928ede8d3c162b9f3d60aefabaa6ca97b5b1e96141225426186f2ce8c0fd"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_boron_nitride.json"
+hash = "c1dda22aea7a854872b0b686aca28f080b73d84d869646c25426e59ea9b00726"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_brick.json"
+hash = "39e40faea714a48b38cfbb6e2977726b8e19a4c14e5a47020a82d4ad604a16b6"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_bronze.json"
+hash = "191fe7b991a22f751bdb28961e1d498d188fd214b60482bdb719f1439d405817"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_certus.json"
+hash = "e0455326679c57ba51b4fbb81499dd5d8bdd4511ca4c2ccc06b404bcafc395b2"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_constantan.json"
+hash = "71f519de0f3155eecdab242144f8e46882cb533e618f5d4cccdca002a3052c1a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_corium.json"
+hash = "2d2b59e683f3549f197310cc2a2f7764777931925cd92049ae37096d103cc103"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_electrum.json"
+hash = "05cc972e62e44d4c5474c8159fd9d9df2f32f14d36f085528e6edbaa8cc1cfe7"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_extreme_alloy.json"
+hash = "78143792bfbadf78025817526d3fc9483460a58c387c850762704cafd81c1a87"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_ferroboron.json"
+hash = "0fb45124e527443cc9cd27ab98934364144f686cd85c16de008346d18cb0349b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_fluix.json"
+hash = "4334f71a7c972e7f8c5ca9d85919d728f62d9aecc13a22083ac3294e41f48124"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_fluix_steel.json"
+hash = "18409c70c256e5dfdfdbc170f16a1128fbe189a09ddae5114a74cc7a19fb327e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_flux_crystal.json"
+hash = "aa22eb18ffd9d6daad24f596271f107352562dfcdf111aa207ec0714339cb18d"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_fluxed_electrum.json"
+hash = "9666f63a7a0013d992f1d4e9ed677adb0a6a4b4ba42029c0eca873720137d19a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_glowshroom.json"
+hash = "b6ba465f6e06e06eb66d72db7d6f33b20ab3992646abfd20f5683359b7e434e3"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_hard_carbon.json"
+hash = "2390621981832813b0bee1e30cf5f39c842ac37589e617853e477e07ded93740"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_hsla.json"
+hash = "e751b61e058f6efe29871abdbacf8890ae703e2dc897af91cd5b3b59070efec9"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_invar.json"
+hash = "230ef8eee31b82c687fdd5517203c9ea3da295d8c6f3589cae3e5a4cdd57f477"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_iridium.json"
+hash = "e7ff0537dce864b0d5aa2ac441cdafb6a1262307c066d1b416e30383646aa93b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_lava.json"
+hash = "d3499453f93d180ef5cbb538ae07666962f555cc48cba39b1c69b45f8a7fec0d"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_limno2.json"
+hash = "0ff7d735ac9fad80c5e7901011cea33d1d0475bdf2211eeccce90fe965e28c28"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_liquid_oxygen.json"
+hash = "1e55ba25f03727c04f2c8e99a43e5f357f9f32c05c096e880b71749d3a54a80a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_lumium.json"
+hash = "099cf77c8dd8572cfa399b9ede2b279295fdf2e9a2306444635dc7f842833340"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_magma_slime.json"
+hash = "96f5923ae9f6620cf084fecbc7dac28a6197696dbf272e3003dc57b604a6b163"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_mana_dust.json"
+hash = "7878d9177abb7f159170ebada761f3481f5d130aa7cb7378f243a83b2b849350"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_mgb2.json"
+hash = "96f83d9c978d79c1b94dd0b19f24ec6074a5cf4cff152d751ac11f84f5fb8e6f"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_milk.json"
+hash = "565a259bcb1e9dabff7358b4e0e05a2db69350c62338f1a29b176ad7fce35864"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_mithril.json"
+hash = "6396352cfd44f4f82dd1d6c8f41f810d74bc1ae6942615b0e6a4cf5d5d2bc500"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_nickel.json"
+hash = "171c66e2a4a3617e664309d579f394d378a1f7a78eb8b6da702049182044f7f6"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_petro.json"
+hash = "02fe476b3ddcf217774ba2140fb6bc50b2d6bd73f31299b423386680b83cce62"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_platinum.json"
+hash = "652a2b324621165887d04cdd95d38f1b6e3e4215707e3c7954dcffc4592a3762"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_pyro.json"
+hash = "cd7dcfbeb8dd5584a5165dcc713bd0a5d58405f00e0e01032f475015f530fe88"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_rhodochrosite.json"
+hash = "3422224487f12782a1f4b86f0861d9d3bca674ea67ae5358bc02e76198ecadc3"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_sea_lantern.json"
+hash = "183756ac69ad6e04f537f9a2d35beab1a4c1b70b9e8e70f457ec70ee1fc0fdfa"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_sic.json"
+hash = "ab5ff8cffa5b513285dfada774f5ea8d16d37ebd54a1baeb9a96cdbb4a25c5fd"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_sic_sic_cmc.json"
+hash = "a6ef277fd911cdb0326b7b24563972d5f91d6429628de82ed131ece3604ed924"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_signalum.json"
+hash = "486f5f22b14092cc23e5a2df23e116f86fb9589bd2cbf1e74b499997abd62d60"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_silicon.json"
+hash = "bb2ce88a0169e5c94307e0d9c96c066ca8212d5a0f35c511c65abbd040ccb123"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_smore.json"
+hash = "eeac06eecc10a5f1eeb76018367ef4d2642e4f647d203047be42824fa978e834"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_sponge.json"
+hash = "5a91aa906d72bfdff9d8b528bea793319389ae6a49e6ac073f68531371c131a0"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_steel.json"
+hash = "f7aace1121f146adac62b376bbfcc37e62d771f0d6f08010546496d15fcb4a81"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_thermoconducting_alloy.json"
+hash = "a7fe4623f0a42dfe603cb55e76ba48bb381777b53dc11efba9df6bb68f35b98b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_tnt.json"
+hash = "e37727dfd959a3eb23813e9ef65d6b0ad645b481aabc0708b23b7e89f8edddc4"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_tough_alloy.json"
+hash = "1e8ad5ac8bb2cd8dd53311a0df5eae56edf14a4da0b25848b114575bfe123414"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_zircaloy.json"
+hash = "b70aef870225b11af1df3d1993ae0080e79955129a30ef0154adf88310020cb8"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/salt_fission_heater_zirconium.json"
+hash = "f7fbc990a62a70bfb92270881d6255a760153e7b03c2dd3165bed014c5b2b56d"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_aero.json"
+hash = "45cd92740ad1f67c8d7700e8649d025ac61dca152a0df4d99467062044ef7c49"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_bismuth.json"
+hash = "fe283d1da5caeaf0446e310f9198f94a7b71c75294af33115641bd882b99ff24"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_blue_ice.json"
+hash = "10d8ef2a21e26f339ac40142bf5214499ab6c2b79c2feb37e353670830a4d77d"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_bone.json"
+hash = "0ef444577dfc0b54d42cae19a773e3aaa3f1fffafc30df50ed8ff0a5ce519608"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_boron_arsenide.json"
+hash = "4c157b76b2c38358169d587a16f85ae67d99b63e83dea65ebf8d7c2f6cb4876e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_boron_nitride.json"
+hash = "90e4590c7a94ea0e8ad98ca7c9f20fe654cae56ee1478ad026613d61d12d37fd"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_brick.json"
+hash = "a7b8e3b6105979bc2ecd6cb601b007c1f8acf320553fbfca1e717d94df0a93d5"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_bronze.json"
+hash = "af588300e411e949d0a241b993dc7dd7b0469ad1c822d7aa631fdadf8a264b9b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_certus.json"
+hash = "194ee607716cc93b451938e73076f5cec3238a18b944d0212cad5cffc05d1b91"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_constantan.json"
+hash = "aef42f7624fd1cb526bc5072d569df470be01eaa4a518e6db22dbcd74e92ecef"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_corium.json"
+hash = "476a6e4f06edb667021810e5f9081068427c6720f164847a3f37989ce0f9f669"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_electrum.json"
+hash = "24737ac1cd9a5e1385716d8075cab9ae59b66a704cfa48bc37e1838e36fe4fbe"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_extreme_alloy.json"
+hash = "7633cfc2ce037a82ed025558a75af795f7d308498e8c13aa03847d56a91b7cc2"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_ferroboron.json"
+hash = "279ac205545f0d18a0da74d3e38fc0cd1f652a8df7ca85a7a5bd26170c7b161c"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_fluix.json"
+hash = "aa95e9e6681330f82617c61e1f1b6fc02b036cd13278bda3d5fa8f823e9a9589"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_fluix_steel.json"
+hash = "344509477e4459a6aaf2a5b32e77d2a99eff3414e910eb0923ff08a96560c613"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_flux_crystal.json"
+hash = "aaea50aaf502dfed6aa24b4586ad9a92f9188f63be8f603a948af593a8440f0e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_fluxed_electrum.json"
+hash = "72fb549931d092590427aee12f551cba186f0c6d4458af4857a8c289bdf00f43"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_glowshroom.json"
+hash = "719c50946e027b93d070fa7386578c3df8d341991de353275268b68e659f7f69"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_hard_carbon.json"
+hash = "d05ce6fde640120f2185f2d78ad1d2132cc20025d5e379759fcf9e273c0930a5"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_hsla.json"
+hash = "95995127f881239bf0c5fd862eaa7e3e951f6339e8e38f20e6c31cfec98d5960"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_invar.json"
+hash = "148b107989acaa59b3aa9b7f316ad8e8fbbd178d1e065b94773e651f38f1e83f"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_iridium.json"
+hash = "94595b98299427bc06be7877fa0b49235bd01e1f313bdc3e15cd2e937737d8ee"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_lava.json"
+hash = "2178a71dc85432878edc6a1d3bacb11d9eba919fc57a45f6b53f590d35ff1813"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_limno2.json"
+hash = "15878e1a1b02f654f430089ef694ee5688f250ad638a2ea4bf7bdfb145acdfd8"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_liquid_oxygen.json"
+hash = "d085acc2495ffdc8e8698d8a2df0b678d10022a840240150c2edbab31b4f5c60"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_lumium.json"
+hash = "04e54bb94b5d3b78ac4eef7179d636aaecfcdf755850fc1f0ee7b7a0a98daa3a"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_magma_slime.json"
+hash = "17e0cd1a20c52725b9405d7d916b4b446db6101eaa9dbd1638e2a801d673e24d"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_mana_dust.json"
+hash = "e43976cbf3b43bc359550e6263062296f1d0c8949d7e23148d29de6e303fefee"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_mgb2.json"
+hash = "8bd172eb02a2f425e90b3003347efc4634b04e802358f97b61fb6c10661dcb1c"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_milk.json"
+hash = "0d0cfa5fd28bc66afe84dd88a1f342674a65717447911570beb6e5242d780fe9"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_mithril.json"
+hash = "749cc596d3796e7f2e199904a35260bc9d36753455f37fe493b0af3360037032"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_nickel.json"
+hash = "84f1c05ba140a7b6070446baaa1612e03128bbcfbed124583eb250a8f9dfe284"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_petro.json"
+hash = "f710b7c63be321605d80d9f79a29d6cae00224c3a824a9e255aeb0989ee14977"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_platinum.json"
+hash = "9a724a7e0f1f02f720064c5515a2cb2998c8699b7d036ceb621614097bf02836"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_pyro.json"
+hash = "37bd55f2c7bc62b471a7dd66e68df2b46a666322c90b2c817c5dbfb4a1e2a69b"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_rhodochrosite.json"
+hash = "a9865ad66e14c0428aff39b30bfca5c1fb41643eda549afa8084837da3f28ee8"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_sea_lantern.json"
+hash = "223c079eca8e218aee2c0a9fc7f0c4ea9edf144b7502b5fc38bd40bbd46dde78"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_sic.json"
+hash = "1f55ef53878ca480bd7aea22a2c652939764a91ca827095f704e6cc0d7d5b8da"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_sic_sic_cmc.json"
+hash = "0e1d9963c3a26c67fd6ecb365b36345b2d105f50097363d28564939c8d0f9002"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_signalum.json"
+hash = "c5f4b51c3670abfb202643745790abda68cb721fd63636be7ba039924bf7e693"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_silicon.json"
+hash = "6c20d6a3e0dae3dbd86be5bb3ed8c1104a127d611c1e305db6ea700be8ca3810"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_smore.json"
+hash = "94aa46bebba087125897785397d59ba5f0a9796a2cdee65656cc3888e38da53e"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_sponge.json"
+hash = "70c534c930380772efa61e70d20b243bdbc4530cf8f3c6bd94f90e247f17d255"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_steel.json"
+hash = "c7b47b35b90622370a01fcb4525537b718789f13841efa0acc3ecf60dd6e35be"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_thermoconducting_alloy.json"
+hash = "ca3fea0d043ab819945432e920dea516565585ee7f30760dad686787f6761ded"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_tnt.json"
+hash = "18fc6bb3fcb32ee363a53afd98e619f8603095fb77c75e4f4c00b81d1570e634"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_tough_alloy.json"
+hash = "1605cc9ea9c90b0d261dd2ae7f17cab0c443d233980ed6d35c7f9543921dbd66"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_zircaloy.json"
+hash = "a1f1071d321876ac62399f60ef5e8f7d6df2ce0835573401ace3c95c41dc29dd"
+
+[[files]]
+file = "resources/nuclearcraft/blockstates/solid_fission_sink_zirconium.json"
+hash = "8cafc6de4468f6369ba8354039df91af1623fc2ecdcef8db39303bf916b85fe4"
+
+[[files]]
+file = "resources/nuclearcraft/lang/en_us.lang"
+hash = "c237dfeb027d6069823561d5a6bd3bd2071d47e499f8f8763a325826d32c53ca"
+
+[[files]]
+file = "resources/nuclearcraft/lang/en_us.original"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resources/nuclearcraft/lang/ru_ru.lang"
+hash = "da727d99582f2b265db9de90562fc4f9caa71b26181bfa38e3905b15586dc8bb"
+
+[[files]]
+file = "resources/nuclearcraft/lang/ru_ru.original"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_aero.png"
+hash = "418ec4f68231d424db6d27223e4640287094deefd47c1115461c87dcaf82befb"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_bismuth.png"
+hash = "911414484c6c9b80792efe698763cc3cbea3334c908f8932410fd2ceafbacb50"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_blue_ice.png"
+hash = "3539d0b742a1be4f2521056ec90347d1c58413a8446076135a3c6ee46a80ca5c"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_bone.png"
+hash = "deb9d86e20e8acc7402588e837d33ddf3fea1965c61e766f817590e6c7b26484"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_boron_arsenide.png"
+hash = "c42014ca54c7e62c23bae9102ae35637c1ff6d01dd433af45c422a67f5c278ce"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_boron_nitride.png"
+hash = "82fda3ded3c81986db4b71e3b99e005cd6fa226dc990ce7181d6d420c5b9749b"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_brick.png"
+hash = "00bb1e284b8a436d30b045482db9a1db4ca9d37031890afe289c311c0848951a"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_bronze.png"
+hash = "c50904d9f59b14648a329214aa6d440a51dca0514f00cb0b07640d4ab1445929"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_certus.png"
+hash = "42ecfe10f3eb62f09debe869a3046fc43fb69cb68ecab16fa844bbdc3669b7e4"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_constantan.png"
+hash = "6834b7715263fbff4f739befe40b0dc58c855c2e0d674e9efa11c8179171c137"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_corium.png"
+hash = "983558838266754b16bfc0fffd9c122aac0ae19167a8681276337461801a9849"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_electrum.png"
+hash = "18f776e1cbb4ffb46586621a5b1527c38cedbb1a8eaf2372e0ed7fbe4457f3f6"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_extreme_alloy.png"
+hash = "aef4448fbce5ac7237395cff6ff69a0a7a1c6d0d70e1b0cd1d99d7dbc5467f6d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_ferroboron.png"
+hash = "d359267aaf3bf8700666195b3e93b08ef7f1bb792f88ad7017610d3a425a6526"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_fluix.png"
+hash = "7ae3dbc875f5ed8b49894e521447aeff4529ee3f0b762daef85bc0a2a1d2afce"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_fluix_steel.png"
+hash = "05052588987d3e31e8641725371e41eaada0a117b8634e35c0cfbe39a4db6115"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_flux_crystal.png"
+hash = "bd034b140381344284b5de98c0e5588c3426af3e8cc67518c072e8cc1ba3a27e"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_fluxed_electrum.png"
+hash = "3b3e1943c580a1e77588dd569e6d83a92accfd65957c66d4068330cde0f0c4dc"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_glowshroom.png"
+hash = "f8c37dc64ba74628e232c63094e937b482ce1fa9bfaa9a0ed4492315f92ece99"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_hard_carbon.png"
+hash = "e9551e5bac4b538d98febd1baca221744bd45f0a899896e14eb8a008454e3d92"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_hsla.png"
+hash = "9c2f1f29235f1cbf6ff6b260bbbf07596068f322c32f400888ab54c1ecc7e4a1"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_invar.png"
+hash = "4a6df3d45c066830416514bf03bfff9d6364b463d6a3c6ca7e406cf9892da353"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_iridium.png"
+hash = "80041b066bcc6a0e89eb2a368e4b0ac10ce560621bbfb0386b94716ff50148ce"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_lava.png"
+hash = "6bab7c27884fe57bf44e34cf39b394edf947383ffd2eca21ed987fcdb661c093"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_limno2.png"
+hash = "194dc1858083a3b2c4182ae34c7f0d464d2875c8c6c6787c8c0b5a1684dcf548"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_liquid_oxygen.png"
+hash = "a9f34ae762e7af97e8a04e8af2889722c9443356662a4f7f9e2f4170a4637088"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_lumium.png"
+hash = "a173239da49e28b54aa79323a52d50a9deaadde605b0f35edb58592260c42560"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_magma_slime.png"
+hash = "b9f69b7443eda6f427c682d2c7c5d53edccaf929a57aa2ca4d697f652245b9c9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_mana_dust.png"
+hash = "bfe9d328d93f8f3540555c6011041719d5dba1567bee7af1ec482a3284a38e32"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_mgb2.png"
+hash = "f39d4e29b5789af0c33857e015f7c33988eed8e92b0fa5e98040f8bf4227d2dd"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_milk.png"
+hash = "7ebee051112f971dd4919f2ed1e728ac15954a9373dfa591b8b6f208d5db8e06"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_mithril.png"
+hash = "ea6edbe5bcb83656bc725e80d909c919b5f2b354f3adbc030aca6760233adf64"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_nickel.png"
+hash = "7aa4e39ae924eb6896bdef8f8c269365adbfcfbf1bf6d9bc87fbd99a229e53d5"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_petro.png"
+hash = "93199ec1e7f54d4aaf1aa9df721cb2a09ad2d3d8616ab1f7431251cde66e1d2f"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_platinum.png"
+hash = "0bc71bc79767b9237fd7cb8b439c00fcee65a403cab549cc9f21a4c947fb825d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_pyro.png"
+hash = "a49b884fd527dbe9a5b3a63bba7df2076f681f118cfb26eb53845fddb48014a5"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_rhodochrosite.png"
+hash = "33a96826e6f6b5ea318ff2064c4222469db31ab8f1818bb44a845ec60f0258c0"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_sea_lantern.png"
+hash = "c6cf8ea5b4fd30952f81a93d2a3ed457f6b6ef97041d589105ca2ebb0d47c312"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_sic.png"
+hash = "70a53c03f64f90913897279d93ab047b53fb5b5a9bfbf791c148476b88340406"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_sic_sic_cmc.png"
+hash = "d4ff0a9b3c2f8505958624aee23c8946ad8267b96414cba025542fc01bc8e0ea"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_signalum.png"
+hash = "c6750b1fa822ab3ca187636b91b481a2469166644fa47b3c07650fcf176cb850"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_silicon.png"
+hash = "03209b771c17668fa5b5553a235480f9b2e45b2b6bc148e94a7fc8e06b9b46c1"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_smore.png"
+hash = "1163093f9e335e3bfb307b5ec8639cc784e8a754e8480315d3bc5929364650e8"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_sponge.png"
+hash = "27f9dd9753ecbf0b9791c9ccd5457d46167755d06f1c8917003db7c704ab59d3"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_steel.png"
+hash = "0f4eacff63c58d97330ca1bcc3942008279b283a60931c59f284932c5476b37b"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_thermoconducting_alloy.png"
+hash = "369800b415498a1d77e94b9490dbfeb8c0c152240fda00d84f22203467bd8625"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_tnt.png"
+hash = "06a7192b2e9b2bb3bd58b581ca2df52d93196ea75135b11989bbe6fe21d8f46d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_tough_alloy.png"
+hash = "29850291b2674b8cdebd1e381d88cb20e3e1124f94cced79b993c4f96a1bba51"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_zircaloy.png"
+hash = "eb2f34ac064866e154e5c6cb660459ce133bb1da4537449e0d2f20b06eb80f45"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/heater_zirconium.png"
+hash = "32856ce073ee40b5f357b0d5bc138f7a98760b9b105caef8d8a192cc6f08a18c"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_aero.png"
+hash = "01d306a08baf004a401d10a95827ea800e00b7c7a90573d26475b7d2acb485b3"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_bismuth.png"
+hash = "2a15ed8eb68bf1392abfc71a265975f09f236ea88ef9d912ec9ad3272488de2d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_blue_ice.png"
+hash = "63008c4a9022cb0d48fbce3543b15399a269314b91d3df2ad32b4019306dba75"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_bone.png"
+hash = "7a90b6b461860acf032225dcd09af61914d6f4f46212f6896a0ee784986029e9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_boron_arsenide.png"
+hash = "c4fa3417c25efd5e289057819da30458e5c5ac0d6c5d8d7ce78a55bc5c49a7b7"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_boron_nitride.png"
+hash = "4e7723fbc186c81c40dd5eaed3cc8c808500b17e0552ebd5555606e9715d918a"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_brick.png"
+hash = "0d908ceec1163933fe8d7deb3efef8a4aa270a6ffaff8722b8658bd6dcb1a8f9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_bronze.png"
+hash = "4f3b7d48fe6b79b585b322099a649b234a9a30b753e2c2cc22114c25ed4af97d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_certus.png"
+hash = "6929da04ca6339682d875e1987cb9c9aebff56783b8b5f653e791a02bfafeb70"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_constantan.png"
+hash = "75855922a244ff52459011cdb95b1b5c45f956735d9069f278eff8c44e08fcb6"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_corium.png"
+hash = "09b1142fba31e8e6be6b7c07a2b81c00fd024f19a9b0bd3a433997980ed9aab9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_electrum.png"
+hash = "fe6bf6e1b0d741e340c8e3715420fc3929a8cc68b90687fe1da4b992a280fb20"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_extreme_alloy.png"
+hash = "cb8514bb9dee158d23e2eb79b6f2ed340a70ea7ddbad9225f815f596835bb9eb"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_ferroboron.png"
+hash = "e03fe1c4f73662dadc01615d3fbf2a9728dc3d4f2ee3c9945bb8b319ed83826b"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_fluix.png"
+hash = "cdc1d66384cb1b52a394834f50967e1f9488947129606011b01a6d43978433a4"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_fluix_steel.png"
+hash = "8bfd36b7a3b520b4269e6f9f105bc5a37d89832c81279b054519373d9fb1bf6a"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_flux_crystal.png"
+hash = "ca1130f6f9aa733f2cc24a2551a4cfd3208fafc7930114c5e0f6b82072f005ac"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_fluxed_electrum.png"
+hash = "b99abdcb6b6b232da986d407c12c2b1c516e910c4cfe779d064a3d4bb83d9e09"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_glowshroom.png"
+hash = "30b73f525c585861f02c47bbc3e669f7c05ea5821b60a9c54cc46632daedb111"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_hard_carbon.png"
+hash = "a7a5ad03391427047a4bb59afe0ee54f97c636198a18346a75216c058560076c"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_hsla.png"
+hash = "d3169652a513be91c8c59c06054532d57101cefedbc3a8d701d20772401bb864"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_invar.png"
+hash = "6212b35ae524c64637125d70defa2696ce3dc3991970b24448051849f8036416"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_iridium.png"
+hash = "66433f2ecb6e81d8b8357163b5d2e1e4cc0c095bbb2875be7c60e038a202e403"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_lava.png"
+hash = "e09c69186e1d6db8f5c9d5f98b61c477f7ad877ba8056d0d1b23d5588cc7a326"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_limno2.png"
+hash = "76f031e6e11b3904d2696b471be004d73df6b39ad37b1571b675c6f42d962f37"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_liquid_oxygen.png"
+hash = "14e13f6eaaa5e1f6539dec18a6e380c33a1180936cbf705be723e04bd1263ae8"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_lumium.png"
+hash = "90cab37fb23ced202adb584edcc260fe210d870c8d785869e66aadbdd2cf0bfc"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_magma_slime.png"
+hash = "62c2e48be55949a97276bf6ea35e9f3ae8f79e09b8f6c19ee07ed3c7e3e0454f"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_mana_dust.png"
+hash = "90048e00d897a668fc808a37f5d12c3dcc0bcbe7db4e96dd9ba5b82b4c042662"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_mgb2.png"
+hash = "34f67496c2caf4986b6b6aadd878a2724dae86abbbe9df8276815ab2b3f1c460"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_milk.png"
+hash = "cdb75bf66f5489d36f254da5d78c92730ce548efc83c60bbdba4fdfdcdd78620"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_mithril.png"
+hash = "f5596ccdfa9eb58a87737d3c5dd13732fb4f774788452ab337d99a8b802ea180"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_nickel.png"
+hash = "aa5debe0ab1dbe290318b7e12b0dce1e93c9c885ee5563c5a174a43c1603603b"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_petro.png"
+hash = "ffb9bcbf328c06f4aebe93a1381be2f6ab5cc1e5cc9db15803060f2681cc9694"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_platinum.png"
+hash = "ccf498fe35be05a4da3fbf439336a06fbd714b030987c4c6f2c4710e6f4e906c"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_pyro.png"
+hash = "eb993b259e63dab451ea2a412b8bbca495112af66541cc094b62459d4fac6969"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_rhodochrosite.png"
+hash = "39e00bc1a761ea160e2d997bdd25b954f9b66dae9761be511961edf9b9c180f9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_sea_lantern.png"
+hash = "8eb99a87c301a3a487fea5e07a27edb5eb8f723249b571d175fa08ec1988337f"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_sic.png"
+hash = "397b95a8c1fa7b626c0299d8d596739c02170b0b063f08c3979de203de8ed6f9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_sic_sic_cmc.png"
+hash = "5325a65b8e0d9a0d840352310fa24fa7b72ea56eaf1d03ef9439510253e479e9"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_signalum.png"
+hash = "7a13b2ce25b0748bc78772131b64ece1e93f9e9925dbfb0ba9d8d8fb45200fec"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_silicon.png"
+hash = "2d6338e5662ad75b30715623b2c1b22a0f8af00312a87ee28fb6c819c654bf77"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_smore.png"
+hash = "2407f7aef47e65c310331ab8ab84f3bac919a59fe200293012816f383c2a07d8"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_sponge.png"
+hash = "1fdcd5f76d0f867d3f504713f120745d21efaeb02a1ba6d99c92e24db8532bb3"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_steel.png"
+hash = "1b28dc94c59fb2e037508c363c2278cc510e6801b15b5c87cc634b4ede4c3c6d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_thermoconducting_alloy.png"
+hash = "9b9dd7e330c9e9ece60ea00004617fe3df5ee9aa5b9245684e5f7d1d9b1de0b8"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_tnt.png"
+hash = "cd677b5f6a101a7e65f439b47183ca9e3c2a7d60e6c5f35dc6ce2604168c0caa"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_tough_alloy.png"
+hash = "f76a4dde7d59f4b9812aa838ba7050eb164a7dc9ab3af02f513997770136456c"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_zircaloy.png"
+hash = "f7a8b33e1f37f361c186c119c213560d8fa3acba2618cf0b863a85755eb90525"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/port_zirconium.png"
+hash = "28fb6e2174958aa56a34b60dc24892d35e3996ce993a174681639eaf62f87f9e"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/shield_gadolinium.png"
+hash = "d029ea2535c24597361ed1e56cdc3dc4c5d9c9988c09462ad4514e9354e65db5"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_aero.png"
+hash = "67346ef2fa775b48542ddd095a96d20cf49478f5d5194e38c556579d772a5504"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_bismuth.png"
+hash = "5e13606144acd1b027d3c1b398e21d982e7eec926e552178e8241e3ddf20a6c7"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_blue_ice.png"
+hash = "0da27f35eed4e93de08099b2cf54c1333dec3eed3070ae29a7caa5ae85f68405"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_bone.png"
+hash = "597450ce0588f94b1ad9cd43a2ea0e6b2121a1b498bba6cab0cc7a49d7dff12e"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_boron_arsenide.png"
+hash = "df4b198de79a33b21714854841e7b681786a2920cc5e15d85cf98ef49f2195f5"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_boron_nitride.png"
+hash = "116478365bf68dda6c1fdc4347474e6c1733e4702025f9ef8a20ae9e60358266"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_brick.png"
+hash = "d119187b3d47a962b14f52095dfb9115cc50750e0639a4269673055b1bc1d606"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_bronze.png"
+hash = "0cb887ea9edc1119be361e213d8bb521771ce7e1c1f23c9dd0cb53585a5f9c57"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_certus.png"
+hash = "86f323cbad921f815c9a8c17093281fc19a88a40c2130e429226b421d70fdb50"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_constantan.png"
+hash = "4d301b4d01ae70e5e71eb189c5f54a829d21f196dc9b9c4605b3269d22151187"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_corium.png"
+hash = "462893eb3309667d1285fd00c401fc51e08b1614ef6272a06a515a78fc98c9ed"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_electrum.png"
+hash = "a9211196d48c44cb688eee08082de6cc9d468f3ae890d42fb0e670fbc7a877a2"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_extreme_alloy.png"
+hash = "a3b68a5acae4f948853fb9b2ab83266a8c5357c6a4f60c7e51476ad39f229864"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_ferroboron.png"
+hash = "4f52ea394ed3ca348ad5bd6bb6b0c8bb6576b61be3c6e488b5acd9fe7a12af5c"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_fluix.png"
+hash = "5a2a0baea8ff9ac22d9cc16add79e743231c1926cf59597f47c992823fe81675"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_fluix_steel.png"
+hash = "03cd756bd8c34f2ebc5d4c4067c87fda27f229826532a4d802066d5b2e3ca556"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_flux_crystal.png"
+hash = "841128c1ae7bc69cb33013358565e28a655975eb5721a05e44464b5319cd7963"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_fluxed_electrum.png"
+hash = "698c66de9a1e861c90b51b7abc216840f09fde3105076b4ef23edd42501d0711"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_glowshroom.png"
+hash = "3f58e1b460ad6809aa74e2f1a00af2a4158b740e897e50302c27ac922f4b7db1"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_hard_carbon.png"
+hash = "41ecf5633f62e81d3ab7259c30b75744829a4cac636a7fde7ccae1bbcf81e94d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_hsla.png"
+hash = "a3cdef7e72d3c1d10feacba16632a6d11b50a7b32f1c58f886e4954ca80a5daa"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_invar.png"
+hash = "ff8f5b9dc69624cd4d16a9b5f2f78ccfb3ef228f4e62d9d591fdad268c631730"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_iridium.png"
+hash = "e1b7b0fdaaf4a3561f249da6cf599806896f4f81f5546a02819dc9b090adffcb"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_lava.png"
+hash = "ea739164fa94966838ce397703e6a51369a86dc761b6a45239a94a8ebfa60ad3"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_limno2.png"
+hash = "236d0b5fdee7ecdd08cbd211f51b8096fe4f9f579055acf2fac7f6bbe8a7eb0f"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_liquid_oxygen.png"
+hash = "d4b565f8b74d1ca9c4ed0ea3056ead53a212259f3ec43cdddb3cf6e655750f89"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_lumium.png"
+hash = "1dc4c642dfdffdc8a75e5b0528856b8391fde8a048ccb0d94512a1290acddbfa"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_magma_slime.png"
+hash = "f9577d6072fe917d02174aeaff6eca98c648538fb0d746273091cff671e93620"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_mana_dust.png"
+hash = "5a81e7843af6b0d7dec45f03c9143579218fe7796c7eb880c763133b563c0412"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_mgb2.png"
+hash = "5c6d2ffb22c820b52123c7fb1044268f0885511006c916a01b3648a7e2a8cab8"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_milk.png"
+hash = "78bc17b2497abc6de0ea2fe9927a19f695dc8c6e30caf23c1eb801d9b9ca17a4"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_mithril.png"
+hash = "abe2519af6ea3652f3b0af4136ce899965718613110a9574f20abf5e1be097ac"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_nickel.png"
+hash = "51a1dcc65958d58edbbc948d26127b7c69f050b0bd440988a550ca5f4a0aeb1a"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_petro.png"
+hash = "6b8014861cef6e0b89bd56bdcc030e904e1065b1451df09f5e176aadf148e9fd"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_platinum.png"
+hash = "8ee93025851b2fc703a0cec317e445bc187664f1098274dc2f05dc6187377aea"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_pyro.png"
+hash = "ffd69b670fdfba5bf3b2a0f0cad75d636f91bbc70290c0fa48d4aa9e66571efb"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_rhodochrosite.png"
+hash = "009544e181037d249e5365607896f27046288b10201cdec5884e26a0d7a478f5"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_sea_lantern.png"
+hash = "bfbc1980e0b4909ff10d0442dbc92c33eba1577f20b7e31fa1e823890c0b7299"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_sic.png"
+hash = "6f76571c3040b53ca9942ff0f0f1278d9187ae908c99954abacba758be041db6"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_sic_sic_cmc.png"
+hash = "e442cd1ad5aa213c335ad5524e74be4dc265a3154ab0e74af3af8fa05ea046b0"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_signalum.png"
+hash = "620ff3f37c1b20d663a0e5735696ddc19a9df58be91995f772d8400425d73eda"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_silicon.png"
+hash = "7d27730bc65087026d78f7af53392376984035d3ef67edd6af1df5fbd4eae425"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_smore.png"
+hash = "bc7434aed80e65f4d193373b82d12bf216ec17cabb9bae999071f1bced5833dd"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_sponge.png"
+hash = "dd383640dd019a277a8f9698dce1d6a9db1d47950a9c874eed6c3047e56dc690"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_steel.png"
+hash = "789bee9800a534218eb17a8b21cca877057b2cd5b341f3e0ccf3ec32bcba926e"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_thermoconducting_alloy.png"
+hash = "aeb5a0ac905abefa1c8581d77c9f26361ab2dff3e5faa76aeef1ada40086c4a8"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_tnt.png"
+hash = "6b525ad524c3ed3bc5ac56ced8c7eae8d6361f6d21bf4ede8c24e2c9a8ba20a2"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_tough_alloy.png"
+hash = "103a27a5cbf02c1a137984253a787c558637ff7d7c25fb56cebb736e265e1c2b"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_zircaloy.png"
+hash = "813bd08fd6b04ca8a0157930e9f4855e037cb65fe085afb9fcf5567aa5d56659"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/sink_zirconium.png"
+hash = "c3f167b20c0084f2a14258ae0ec093b58f123456cc692f9815704b4a22a04b31"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/source_actinium.png"
+hash = "13d3878502645b81ff4615e50c250fd417f8acd596bc8d9303b99099f7117bb2"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/source_californium254.png"
+hash = "2d871d1dc0a575732fdb5fe81d0a307980a0788dc87a9af51d1a81fa9f9dac8e"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/source_curium244.png"
+hash = "ebdbe73ad9b306218d68405d54148d22f05ef15dac2ba350cc6f7f485869c52d"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/source_curium250.png"
+hash = "2083179f188d889cd7f8615a9120659aae0a191f06d084b21dc131fcc6282268"
+
+[[files]]
+file = "resources/nuclearcraft/textures/blocks/source_fermium257.png"
+hash = "1745a63ae7d556e81399ff0c344a518a43c43b8cfd6c114d92615b2ae4cbcd84"
